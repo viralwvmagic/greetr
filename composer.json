@@ -1,0 +1,19 @@
+{
+    "name": "viral/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viral Patel",
+            "email": "viral.patel@blattnertechcom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },    
+    "require": {}
+}
