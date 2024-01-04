@@ -1,7 +1,7 @@
 {
     "name": "viral/greetr",
     "description": "Greetr - A simple Laravel package.",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
